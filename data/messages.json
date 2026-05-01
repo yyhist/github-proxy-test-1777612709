@@ -1,9 +1,1 @@
-{
-  "messages": [
-    {
-      "id": "msg-1",
-      "text": "Hello from GitHub proxy",
-      "timestamp": "2026-05-01T00:00:00Z"
-    }
-  ]
-}
+{"messages":[{"id":"msg-2","text":"Updated message","timestamp":"2026-05-01T01:00:00Z"}]}
